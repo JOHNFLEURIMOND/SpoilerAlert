@@ -1,0 +1,14 @@
+{
+  "name": "spoileralert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Node.js",
+  "scripts": {
+    "start": "nodemon Node.js"
+  },
+  "author": "John Fleurimond",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
